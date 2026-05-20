@@ -23,8 +23,6 @@
 </div>
 
 
----
-
 <div align="center">
 
 ## <img src="https://img.icons8.com/color/24/fire-element.png"/> GitHub Streak
@@ -32,8 +30,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunShashika&theme=black-ice&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
-
----
 
 
 <div align="center">
