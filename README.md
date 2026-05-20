@@ -7,14 +7,23 @@
 
 <div align="center">
 
+---
+
 ## <img src="https://img.icons8.com/fluency/24/source-code.png"/> Tech Stack
 
-<br>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python,c,react,nodejs,supabase,wordpress,mysql,firebase,git,github,vscode,figma,androidstudio&theme=dark" />
+| Category | Technologies |
+|---|---|
+| <img src="https://img.icons8.com/color/22/code.png"/> Languages | <img src="https://skillicons.dev/icons?i=java,js,html,css,python,c&theme=dark" /> |
+| <img src="https://img.icons8.com/color/22/workflow.png"/> Frameworks | <img src="https://skillicons.dev/icons?i=react,nodejs,wordpress&theme=dark" /> |
+| <img src="https://img.icons8.com/color/22/database.png"/> Databases | <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=dark" /> |
+| <img src="https://img.icons8.com/color/22/maintenance.png"/> Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&theme=dark" /> |
 
 </div>
 
+
+---
 
 <div align="center">
 
@@ -23,6 +32,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunShashika&theme=black-ice&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
+
+---
 
 
 <div align="center">
@@ -33,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="www.linkedin.com/in/supun-shashika-5655b129a">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
 
