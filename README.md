@@ -15,10 +15,10 @@
 
 | Category | Technologies |
 |---|---|
-| <img src="https://img.icons8.com/color/22/code.png"/> Languages | <img src="https://skillicons.dev/icons?i=java,js,html,css,python,c&theme=dark" /> |
+| <img src="https://img.icons8.com/color/22/code.png"/> Languages | <img src="https://skillicons.dev/icons?i=java,js,html,css,python,c,cpp&theme=dark" /> |
 | <img src="https://img.icons8.com/color/22/workflow.png"/> Frameworks | <img src="https://skillicons.dev/icons?i=react,nodejs,wordpress&theme=dark" /> |
 | <img src="https://img.icons8.com/color/22/database.png"/> Databases | <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=dark" /> |
-| <img src="https://img.icons8.com/color/22/maintenance.png"/> Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&theme=dark" /> |
+| <img src="https://img.icons8.com/color/22/maintenance.png"/> Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,androidstudio,vercel&theme=dark" /> |
 
 </div>
 
