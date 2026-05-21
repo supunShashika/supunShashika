@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20👋%20,%20I'm%20Supun%20Shashika&fontSize=42&fontColor=ffffff&color=0:0D1117,100:00F7FF&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20🙋🏼‍♂️%20,%20I'm%20Supun%20Shashika&fontSize=42&fontColor=ffffff&color=0:0D1117,100:00F7FF&animation=fadeIn&fontAlignY=35" />
 
 ### `Full Stack Developer` • `BSE Undergraduate` • `UI/UX Enthusiast`
 
